@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "me/fortibrine/playeresp/mixin/InGameHudMixin": {
+      "renderGameOverlay": "Lnet/minecraft/client/gui/GuiIngame;func_175180_a(F)V"
+    }
+  },
+  "data": {
+    "searge": {
+      "me/fortibrine/playeresp/mixin/InGameHudMixin": {
+        "renderGameOverlay": "Lnet/minecraft/client/gui/GuiIngame;func_175180_a(F)V"
+      }
+    }
+  }
+}
